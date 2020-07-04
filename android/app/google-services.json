@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416324477258",
+    "firebase_url": "https://teste-662e1.firebaseio.com",
+    "project_id": "teste-662e1",
+    "storage_bucket": "teste-662e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416324477258:android:2c6b9fda46ce7885c1e1b3",
+        "android_client_info": {
+          "package_name": "com.barbosa.facedetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416324477258-pgqnebt6lf81lkil3vlkhgmaveebcdol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barbosa.facedetect",
+            "certificate_hash": "ce0efd1bac5c9a7c2fffb8d1c177a93cffd5618c"
+          }
+        },
+        {
+          "client_id": "416324477258-f5o5nftevofpq02gembupfjrgal0inv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0kd9k_reHyd46dyTAbZJeXzn-9mn6vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416324477258-f5o5nftevofpq02gembupfjrgal0inv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
